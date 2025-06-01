@@ -106,7 +106,7 @@
 
 #### **Step 1: Clone or Download**
 ```bash
-git clone [<repository-url>](https://github.com/KaTOxDev/PlayChessWithAI.git)
+git clone https://github.com/KaTOxDev/PlayChessWithAI.git
 cd PlayChessWithAI
 ```
 

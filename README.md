@@ -106,8 +106,8 @@
 
 #### **Step 1: Clone or Download**
 ```bash
-git clone <repository-url>
-cd chess-master-ai
+git clone [<repository-url>](https://github.com/KaTOxDev/PlayChessWithAI.git)
+cd PlayChessWithAI
 ```
 
 #### **Step 2: Install Python Dependencies**

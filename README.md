@@ -66,7 +66,7 @@
 
 3. **Run the Game**
    ```bash
-   python chess_game.py
+   python main.py
    ```
 
 4. **Choose Your Challenge**

@@ -9,9 +9,9 @@ from enum import Enum
 import time
 
 class MoveRating(Enum):
-    BRILLIANT = "★★★"
-    GREAT = "★★"
-    GOOD = "★"
+    BRILLIANT = "***"
+    GREAT = "**"
+    GOOD = "*"
     INACCURACY = "?!"
     MISTAKE = "?"
     BLUNDER = "??"
